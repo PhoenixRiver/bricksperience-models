@@ -1,9 +1,7 @@
 0 40143-BricktoberBakery.ldr
 0 Name: 40143 - Bricktober Bakery
 0 Author: Christian Maglekær
-0 !LDRAW_ORG Model
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-0 !HISTORY 2019-03-21 [technicbasics] Build .mpd and OMRize file
+0 CustomBrick
 
 1 71 90 0 50 0 0 1 0 1 0 -1 0 0 3710.dat
 1 0 60 8 10 0 0 1 0 1 0 -1 0 0 3035.dat
