@@ -1,8 +1,7 @@
 0 1557-SpaceScooter.ldr
 0 Name: 1557 - Space Scooter
 0 Author: Willy Tschager [Holly-Wood]
-0 !LDRAW_ORG Model
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
+0 CustomBrick
 
 1 1 0 0 0 0 0 -1 0 1 0 1 0 0 3020.dat
 1 1 -40 -8 0 1 0 0 0 1 0 0 0 1 3935.dat
