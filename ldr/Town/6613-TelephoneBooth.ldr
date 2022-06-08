@@ -1,10 +1,7 @@
-0 6613 - Telephone Booth
-0 Name: 6613 - Telephone Booth.ldr
+0 6613-TelephoneBooth.ldr
+0 Name: 6613 - Telephone Booth
 0 Author: Rafael Skibicki [Rola]
-0 !LDRAW_ORG Model
-0 !LICENSE Redistributable under CCAL version 2.0 : see CAreadme.txt
-0 !THEME Classic Town
-0 !KEYWORDS telephone, 1986
+0 CustomBrick
 
 1 0 -110 -52 20 0.707107 0 -0.707107 0 1 0 0.707107 0 0.707107 4719c01.dat
 1 47 -46.36 -56 -43.64 0.707107 -0.707107 0 0 0 -1 0.707107 0.707107 0 4073.dat
