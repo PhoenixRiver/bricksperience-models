@@ -1,0 +1,342 @@
+0 720-1-BasicBuildingSet(C).ldr
+0 Name: 720-1 Basic Building Set (C)
+0 Author: Strikeman
+0 Theme: Town
+0 CustomBrick
+
+0 MLCAD BTG jeep
+1 0 -144 6 154 0 0 1 0 1 0 -1 0 0 3680c01.dat
+0 MLCAD BTG jeep
+1 1 -144 22 -46 -1 0 0 0 1 0 0 0 -1 3020.dat
+0 MLCAD BTG jeep
+1 1 -174 30 -26 0 0 -1 0 1 0 1 0 0 3701.dat
+0 MLCAD BTG jeep
+1 1 -114 30 -26 0 0 -1 0 1 0 1 0 0 3701.dat
+0 MLCAD BTG jeep
+1 0 -144 40 -46 1 0 0 0 1 0 0 0 1 3706.dat
+0 MLCAD BTG jeep
+1 7 -94 40 -46 0 0 1 0 1 0 -1 0 0 3482.dat
+0 MLCAD BTG jeep
+1 0 -94 40 -46 0 0 1 0 1 0 -1 0 0 3483.dat
+0 MLCAD BTG jeep
+1 7 -194 40 -46 0 0 1 0 1 0 -1 0 0 3482.dat
+0 MLCAD BTG jeep
+1 0 -194 40 -46 0 0 1 0 1 0 -1 0 0 3483.dat
+0 MLCAD BTG jeep
+1 7 -94 40 74 0 0 1 0 1 0 -1 0 0 3482.dat
+0 MLCAD BTG jeep
+1 0 -94 40 74 0 0 1 0 1 0 -1 0 0 3483.dat
+0 MLCAD BTG jeep
+1 7 -194 40 74 0 0 1 0 1 0 -1 0 0 3482.dat
+0 MLCAD BTG jeep
+1 0 -194 40 74 0 0 1 0 1 0 -1 0 0 3483.dat
+0 MLCAD BTG jeep
+1 0 -144 40 74 1 0 0 0 1 0 0 0 1 3706.dat
+0 MLCAD BTG jeep
+1 1 -114 30 54 0 0 -1 0 1 0 1 0 0 3701.dat
+0 MLCAD BTG jeep
+1 1 -174 30 54 0 0 -1 0 1 0 1 0 0 3701.dat
+0 MLCAD BTG jeep
+1 14 -144 -18 24 1 0 0 0 1 0 0 0 1 3829c01.dat
+0 MLCAD BTG jeep
+1 71 -144 6 54 1 0 0 0 1 0 0 0 1 4079.dat
+0 MLCAD BTG jeep
+1 1 -104 -10 4 1 0 0 0 1 0 0 0 1 3660.dat
+0 MLCAD BTG jeep
+1 1 -184 -10 4 1 0 0 0 1 0 0 0 1 3660.dat
+0 MLCAD BTG jeep
+1 1 -94 -10 24 -1 0 0 0 1 0 0 0 -1 3665.dat
+0 MLCAD BTG jeep
+1 1 -194 -10 24 -1 0 0 0 1 0 0 0 -1 3665.dat
+0 MLCAD BTG jeep
+1 1 -194 -10 124 1 0 0 0 1 0 0 0 1 3665.dat
+0 MLCAD BTG jeep
+1 1 -94 -10 124 1 0 0 0 1 0 0 0 1 3665.dat
+0 MLCAD BTG jeep
+1 4 -94 -58 124 1 0 0 0 1 0 0 0 1 3040b.dat
+0 MLCAD BTG jeep
+1 4 -194 -58 124 1 0 0 0 1 0 0 0 1 3040b.dat
+0 MLCAD BTG jeep
+1 4 -194 -82 124 1 0 0 0 1 0 0 0 1 3005.dat
+0 MLCAD BTG jeep
+1 4 -94 -82 124 1 0 0 0 1 0 0 0 1 3005.dat
+0 MLCAD BTG jeep
+1 1 -144 -90 24 1 0 0 0 1 0 0 0 1 3666.dat
+0 MLCAD BTG jeep
+1 4 -184 -90 124 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG jeep
+1 4 -124 -90 124 1 0 0 0 1 0 0 0 1 3710.dat
+0 MLCAD BTG jeep
+1 4 -144 -98 124 1 0 0 0 1 0 0 0 1 3710.dat
+0 MLCAD BTG jeep
+1 15 -144 14 44 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG jeep
+1 4 -174 -2 -56 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG jeep
+1 4 -184 -10 -56 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG jeep
+1 4 -104 -10 -56 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG jeep
+1 0 -144 -10 -56 1 0 0 0 1 0 0 0 1 4175.dat
+0 MLCAD BTG jeep
+1 46 -174 8 -70 1 0 0 0 0 -1 0 1 0 4073.dat
+0 MLCAD BTG jeep
+1 4 -114 -2 -56 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG jeep
+1 46 -114 8 -70 1 0 0 0 0 -1 0 1 0 4073.dat
+0 MLCAD BTG jeep
+1 4 -94 -114 124 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG jeep
+1 46 -94 -104 110 1 0 0 0 0 -1 0 1 0 4073.dat
+0 MLCAD BTG jeep
+1 4 -194 -114 124 1 0 0 0 1 0 0 0 1 4070.dat
+0 MLCAD BTG jeep
+1 46 -194 -104 110 1 0 0 0 0 -1 0 1 0 4073.dat
+0 MLCAD BTG jeep
+1 1 -144 22 54 0 0 1 0 1 0 -1 0 0 3035.dat
+0 MLCAD BTG jeep
+1 1 -144 14 114 0 0 1 0 1 0 -1 0 0 3795.dat
+0 MLCAD BTG jeep
+1 1 -144 14 14 -1 0 0 0 1 0 0 0 -1 3795.dat
+0 MLCAD BTG jeep
+1 1 -144 14 -26 -1 0 0 0 1 0 0 0 -1 3022.dat
+0 MLCAD BTG jeep
+1 1 -144 -2 -56 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG jeep
+1 1 -144 -10 24 -1 0 0 0 1 0 0 0 -1 3004.dat
+0 MLCAD BTG jeep
+1 1 -154 -10 -16 0 0 -1 0 1 0 1 0 0 3622.dat
+0 MLCAD BTG jeep
+1 1 -134 -10 -16 0 0 -1 0 1 0 1 0 0 3622.dat
+0 MLCAD BTG jeep
+1 1 -114 -2 84 0 0 -1 0 1 0 1 0 0 3622.dat
+0 MLCAD BTG jeep
+1 1 -174 -2 84 0 0 -1 0 1 0 1 0 0 3622.dat
+0 MLCAD BTG jeep
+1 1 -144 -10 124 1 0 0 0 1 0 0 0 1 3010.dat
+0 MLCAD BTG jeep
+1 1 -144 -34 124 1 0 0 0 1 0 0 0 1 3009.dat
+0 MLCAD BTG jeep
+1 1 -94 -34 54 0 0 -1 0 1 0 1 0 0 3009.dat
+0 MLCAD BTG jeep
+1 1 -194 -34 54 0 0 -1 0 1 0 1 0 0 3009.dat
+0 MLCAD BTG jeep
+1 4 -94 -18 -36 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG jeep
+1 4 -194 -18 -36 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG jeep
+1 1 -164 -34 -46 1 0 0 0 1 0 0 0 1 3003.dat
+0 MLCAD BTG jeep
+1 1 -124 -34 -46 1 0 0 0 1 0 0 0 1 3003.dat
+0 MLCAD BTG jeep
+1 1 -144 -34 -6 1 0 0 0 1 0 0 0 1 3001.dat
+0 MLCAD BTG jeep
+1 1 -174 -2 44 1 0 0 0 1 0 0 0 1 3005.dat
+0 MLCAD BTG jeep
+1 1 -114 -2 44 1 0 0 0 1 0 0 0 1 3005.dat
+0 MLCAD BTG jeep
+1 1 -104 14 124 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG jeep
+1 1 -184 14 124 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG jeep
+1 47 -144 -82 24 1 0 0 0 1 0 0 0 1 4176.dat
+0 GROUP 68 jeep
+0 MLCAD BTG trailer
+1 4 -144 22 313.597 0 0 -1 0 1 0 1 0 0 3033.dat
+0 MLCAD BTG trailer
+1 4 -94 -98 383.597 -1 0 0 0 1 0 0 0 -1 3861.dat
+0 MLCAD BTG trailer
+1 4 -144 14 253.597 0 0 -1 0 1 0 1 0 0 3795.dat
+0 MLCAD BTG trailer
+1 1 -144 6 274 0 0 -1 0 1 0 1 0 0 3022.dat
+0 MLCAD BTG trailer
+1 1 -144 -18 264 1 0 0 0 1 0 0 0 1 3660.dat
+0 MLCAD BTG trailer
+1 1 -144 -18 284 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 MLCAD BTG trailer
+1 15 -164 -50 404 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 MLCAD BTG trailer
+1 15 -194 -98 234 0 0 -1 0 1 0 1 0 0 3660.dat
+0 MLCAD BTG trailer
+1 15 -94 -98 234 0 0 1 0 1 0 -1 0 0 3660.dat
+0 MLCAD BTG trailer
+1 47 -144 -98 404 -1 0 0 0 1 0 0 0 -1 3823.dat
+0 MLCAD BTG trailer
+1 15 -124 -50 404 -1 0 0 0 1 0 0 0 -1 3660.dat
+0 MLCAD BTG trailer
+1 4 -144 6 204 1 0 0 0 1 0 0 0 1 3023.dat
+0 MLCAD BTG trailer
+1 4 -154 6 224 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG trailer
+1 4 -134 6 224 1 0 0 0 1 0 0 0 1 3024.dat
+0 MLCAD BTG trailer
+1 4 -144 -2 194 0 0 1 0 1 0 -1 0 0 3020.dat
+0 MLCAD BTG trailer
+1 15 -114 -2 224 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -94 -50 404 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -94 -50 304 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -194 -50 324 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -94 -2 234 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG trailer
+1 15 -94 -50 234 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG trailer
+1 15 -194 -50 234 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG trailer
+1 15 -194 -74 324 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -194 -74 234 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG trailer
+1 15 -194 -50 394 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG trailer
+1 15 -94 -74 404 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -94 -74 304 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -94 -74 234 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG trailer
+1 15 -194 -74 394 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG trailer
+1 15 -194 -98 324 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -94 -98 404 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -94 -98 304 0 0 1 0 1 0 -1 0 0 3005.dat
+0 MLCAD BTG trailer
+1 15 -194 -98 394 0 0 1 0 1 0 -1 0 0 3004.dat
+0 MLCAD BTG trailer
+1 15 -144 -106 404 -1 0 0 0 1 0 0 0 -1 3666.dat
+0 MLCAD BTG trailer
+1 15 -164 -114 404 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG trailer
+1 15 -124 -114 404 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG trailer
+1 15 -144 -106 224 -1 0 0 0 1 0 0 0 -1 3666.dat
+0 MLCAD BTG trailer
+1 15 -144 -122 224 -1 0 0 0 1 0 0 0 -1 3023.dat
+0 MLCAD BTG trailer
+1 15 -154 -114 244 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG trailer
+1 15 -134 -114 244 0 0 -1 0 1 0 1 0 0 3623.dat
+0 MLCAD BTG trailer
+1 1 -144 -106 254 1 0 0 0 1 0 0 0 1 3020.dat
+0 MLCAD BTG trailer
+1 15 -184 -2 224 1 0 0 0 1 0 0 0 1 3004.dat
+0 MLCAD BTG trailer
+1 15 -194 -2 314 0 0 1 0 1 0 -1 0 0 3008.dat
+0 MLCAD BTG trailer
+1 15 -194 -26 314 0 0 1 0 1 0 -1 0 0 3008.dat
+0 MLCAD BTG trailer
+1 15 -144 -26 404 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG trailer
+1 15 -144 -26 224 -1 0 0 0 1 0 0 0 -1 3009.dat
+0 MLCAD BTG trailer
+1 15 -194 -130 314 0 0 -1 0 1 0 1 0 0 3009.dat
+0 MLCAD BTG trailer
+1 15 -94 -130 314 0 0 -1 0 1 0 1 0 0 3009.dat
+0 MLCAD BTG trailer
+1 15 -94 -106 354 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG trailer
+1 15 -94 -106 274 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG trailer
+1 15 -194 -106 274 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG trailer
+1 15 -194 -106 354 0 0 -1 0 1 0 1 0 0 3710.dat
+0 MLCAD BTG trailer
+1 15 -194 -130 384 -1 0 0 0 1 0 0 0 -1 3040b.dat
+0 MLCAD BTG trailer
+1 15 -94 -130 384 -1 0 0 0 1 0 0 0 -1 3040b.dat
+0 MLCAD BTG trailer
+1 15 -94 -130 244 1 0 0 0 1 0 0 0 1 3040b.dat
+0 MLCAD BTG trailer
+1 4 -154 41.971 213.971 0 0 1 0.707107 0.707107 0 -0.707107 0.707107 0 3040b.dat
+0 MLCAD BTG trailer
+1 4 -134 41.971 213.971 0 0 -1 -0.707107 0.707107 0 0.707107 0.707107 0 3040b.dat
+0 MLCAD BTG trailer
+1 15 -194 -130 244 1 0 0 0 1 0 0 0 1 3040b.dat
+0 MLCAD BTG trailer
+1 4 -144 30 334 1 0 0 0 1 0 0 0 1 3032.dat
+0 MLCAD BTG trailer
+1 4 -104 38 334 1 0 0 0 1 0 0 0 1 3022.dat
+0 MLCAD BTG trailer
+1 4 -184 38 334 1 0 0 0 1 0 0 0 1 3022.dat
+0 MLCAD BTG trailer
+1 7 -174 -122 254 0 0 1 0 1 0 -1 0 0 4531.dat
+0 MLCAD BTG trailer
+1 7 -114 -122 254 0 0 1 0 1 0 -1 0 0 4531.dat
+0 MLCAD BTG trailer
+1 7 -114 -122 254 0 0 1 0 1 0 -1 0 0 4275a.dat
+0 MLCAD BTG trailer
+1 7 -174 -122 254 0 0 1 0 1 0 -1 0 0 4275a.dat
+0 MLCAD BTG trailer
+1 7 -174 -130 314 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG trailer
+1 7 -154 -130 314 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG trailer
+1 7 -134 -130 314 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG trailer
+1 7 -114 -130 314 0 0 1 0 1 0 -1 0 0 3460.dat
+0 MLCAD BTG trailer
+1 7 -144 -138 364 -1 0 0 0 1 0 0 0 -1 3794a.dat
+0 MLCAD BTG trailer
+1 7 -144 -162 364 -1 0 0 0 1 0 0 0 -1 3062b.dat
+0 MLCAD BTG trailer
+1 1 -144 -122 294 -1 0 0 0 1 0 0 0 -1 3020.dat
+0 MLCAD BTG trailer
+1 15 -144 -122 354 -1 0 0 0 1 0 0 0 -1 3031.dat
+0 MLCAD BTG trailer
+1 7 -184 46 334 -1 0 0 0 1 0 0 0 -1 4600.dat
+0 MLCAD BTG trailer
+1 7 -104 46 334 -1 0 0 0 1 0 0 0 -1 4600.dat
+0 MLCAD BTG trailer
+1 7 -144 22 204 -1 0 0 0 1 0 0 0 -1 3938.dat
+0 MLCAD BTG trailer
+1 4 -144 25 197 -1 0 0 0 0.707107 0.707107 0 0.707107 -0.707107 3937.dat
+0 MLCAD BTG trailer
+1 7 -74 51 334 0 0 -1 0 1 0 1 0 0 4624.dat
+0 MLCAD BTG trailer
+1 0 -74 51 334 0 0 -1 0 1 0 1 0 0 3641.dat
+0 MLCAD BTG trailer
+1 7 -214 51 334 0 0 1 0 1 0 -1 0 0 4624.dat
+0 MLCAD BTG trailer
+1 0 -214 51 334 0 0 1 0 1 0 -1 0 0 3641.dat
+0 MLCAD BTG trailer
+1 15 -94 -2 284 0 0 1 0 1 0 -1 0 0 3622.dat
+0 MLCAD BTG trailer
+1 15 -144 -2 404 -1 0 0 0 1 0 0 0 -1 3010.dat
+0 MLCAD BTG trailer
+1 15 -94 -26 274 0 0 -1 0 1 0 1 0 0 3010.dat
+0 MLCAD BTG trailer
+1 15 -194 -2 404 -1 0 0 0 1 0 0 0 -1 4070.dat
+0 MLCAD BTG trailer
+1 15 -94 -2 404 -1 0 0 0 1 0 0 0 -1 4070.dat
+0 MLCAD BTG trailer
+1 36 -94 8 418 -1 0 0 0 0 -1 0 -1 0 3024.dat
+0 MLCAD BTG trailer
+1 36 -194 8 418 -1 0 0 0 0 -1 0 -1 0 3024.dat
+0 GROUP 88 trailer
+0 MLCAD BTG minifig
+1 0 0 -24 0 1 0 0 0 1 0 0 0 1 3624.dat
+0 MLCAD BTG minifig
+1 14 0 -24 0 1 0 0 0 1 0 0 0 1 3626bp01.dat
+0 MLCAD BTG minifig
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 973.dat
+0 MLCAD BTG minifig
+1 1 0 32 0 1 0 0 0 1 0 0 0 1 3815.dat
+0 MLCAD BTG minifig
+1 0 -15.552 9 0 0.985 -0.17 0 0.17 0.985 0 0 0 1 3818.dat
+0 MLCAD BTG minifig
+1 0 15.552 9 0 0.985 0.17 0 -0.17 0.985 0 0 0 1 3819.dat
+0 MLCAD BTG minifig
+1 14 -23.8634 26.5956 -10.321 0.985 -0.12019 0.12019 0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig
+1 14 23.8634 26.5956 -10.321 0.985 0.12019 -0.12019 -0.17 0.696395 -0.696395 0 0.707 0.707 3820.dat
+0 MLCAD BTG minifig
+1 1 0 44 0 1 0 0 0 1 0 0 0 1 3816.dat
+0 MLCAD BTG minifig
+1 1 0 44 0 1 0 0 0 1 0 0 0 1 3817.dat
+0 GROUP 10 minifig
+0
