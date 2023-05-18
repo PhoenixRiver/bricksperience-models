@@ -11,3 +11,6 @@ NOTE: As per the author's request, all models have their minifigs (and held obje
 
 
 PostScript: If anyone has contact with the author of the indiedb models I can add in the bs-format ones (though I don't have the ldr's they were created from, of course, so attribution would be hard to source?)
+
+
+PostPostScript: Some bricks are in BS but have the wrong ID... in all cases I've found if the letter is removed from the ID (almost always "a") then the correct brick is used. The ldr's here are inconsistent on this point but generally use the correct ID from Studio / LDraw and I feel that is better in case this oversight is fixed.
