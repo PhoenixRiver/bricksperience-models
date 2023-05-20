@@ -1,12 +1,19 @@
 Please note that this list is out of date most of the time as it is manually calculated at present, however additions to BS from this list are more than welcome (and will make maintaining the list easier) since the numbers will only get higher otherwise! :D
 
-ID: - Minimum number of sets in this git repo depending on it:
+This seems like the best place to note that there are some bricks that have no letter after them but should have one and visa-versa (I'm going to assume this is due to changes in the ID numbering over time and is related to Studio completely changing a number of IDs due to changes since BS was released and the huge number of new bricks since then - this latter issue is not a problem for LDRs but is an issue when converting from more modern formats and I have tried to rectify these when I find them; yes, I've probably missed some).
+
+TLDR; remove the letter in BS Editor or add / change it to "a" or "b" (this covers 99% of cases, the rest are in the range c to f but this is really rare or fixed already in my LDRs)
+
+EXCEPTION: change 314 / 314e to _314d_ and 3149 / 3149e to _3149d_ in BS - this took me a long time to find so you are hearby warned! :D
+
+(Yes, this should maybe go into "Advice about converting files for import into BS's ldr format." - I'll make it as soon as I find a chunk of time when I'm feeling coherent enough! IT7ll include the above and a list of changes that need to be made to brick IDs exported as ldr's from Stud.io - it silently "fixes" a bunch that BS doesn't agree with... so much for a standard file format! :( - I use Stud.io and a text editor for all the work but also needed to install LDD for the brick list.
+
+ID: - Minimum number of bricks using it in this repo:
 
 20 - 1
 122c02 - 1
 165 - 1
 242c01 - 1
-314e - 1
 420 - 1
 422 - 1
 609 - 1.
@@ -20,11 +27,11 @@ u1126 - 1
 2046 - 1.
 2336 - 1
 2337 - 1.
-2345 - 2
+2345 - 5
 2348a - 1
 2401 - 1
 2408 - 1
-2418a - 1
+2418a - 2
 2421 - 2
 2426 - 1
 2426c01 - 1
@@ -49,7 +56,6 @@ u1126 - 1
 3144 - 1
 3148 - 1
 3149c01 - 1.
-3149e - 1
 3183a - 1.
 3184 - 1
 3228b - 2
@@ -72,7 +78,7 @@ u1126 - 1
 3942a - 1
 3942b - 1
 3943a - 1
-3947a - 1
+3947a - 1.
 3962a - 2
 4079b - 2
 4081a - 1
@@ -81,7 +87,7 @@ u1126 - 1
 4221 - 1
 4228 - 1
 4276a - 1.
-4285a - 1
+4285a - 2
 4287a - 1
 4288 - 4
 4318 - 1.
@@ -92,6 +98,7 @@ u1126 - 1
 4597 - 1
 4730 - 2
 4732 - 1.
+4737 - 1.
 4746 - 1
 4755 - 4
 4757 - 2
@@ -179,12 +186,16 @@ Pieces with stickers:
 3003pe2 - 10
 3004p90 - 2
 3039p23 - 2
+3039p32 - 2
+3040p32 - 2
+3068bp08 - 2
+3069bp05 - 2
 3069bp07 - 2
 3069bp25 - 1
 3069bpa0 - 1
 3069bpw0 - 1
 3298p53 - 4
-3298p90 - 2
+3298p90 - 3
 3622p02 - 1
 3622p53 - 1
 3960pb001 - 1
