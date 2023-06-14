@@ -14,3 +14,6 @@ PostScript: If anyone has contact with the author of the indiedb models I can ad
 
 
 PostPostScript: Some bricks are in BS but have the wrong ID... in all cases I've found if the letter is removed from the ID (almost always "a") then the correct brick is used. The ldr's here are inconsistent on this point but generally use the correct ID from Studio / LDraw and I feel that is better in case this oversight is fixed.
+
+
+PostPostPostScript: BS_palette is for Stud.io, place it into your user's AppData/Local/Stud.io/Buckets/Folders directory and then click the "Main" dropdown list above the list of bricks to select it, it currently contains every brick in BS so that you can design things in Stud.io and then import them into BS without having to worry whether the piece exists or not in BS. (Currently only contains the first 500 or so... WIP).
