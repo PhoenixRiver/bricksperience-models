@@ -17,11 +17,11 @@ ID: - Minimum number of bricks using it in this repo:
 3846px9 (misnamed as 3846p45) - 3
 4218 (misnamed as 4218b) - 10
 4219 (misnamed as 4219b) - 1
-4493c01pb01 (misnamed as 4493c04) - 0
-4493c01pb02 (misnamed as 4493c01) - 0
-4493c01pb04 (misnamed as 4493c02) - 1
+4493c01pb01 (misnamed as 4493c04) - 3
+4493c01pb02 (misnamed as 4493c01) - 2
+4493c01pb04 (misnamed as 4493c02) - 4
 4497b (misnamed as 4497) - 10
-48729a (misnamed as 48729) - 12
+48729a (misnamed as 48729) - 13
 
 Apparently missing bricks:
 
@@ -193,6 +193,7 @@ u9132 - 1.
 32528 - 1
 37762 - 2
 41740 - 5
+41879a - 1
 42021 - 1
 42918 - 6
 44661 - 2
@@ -227,6 +228,7 @@ u9132 - 1.
 82359 - 1
 86876 - 2
 86996 - 1
+88286 - 1
 92254p01 - 2
 92355a - 1
 92355b - 1
@@ -278,6 +280,8 @@ Pieces with prints / stickers:
 973p49 - 3
 973p4q - 1
 973p50 - 2
+973pb0086 - 1
+973pb0631 - 1
 973pw4 - 1
 973pw5 - 1
 973pw6 - 1
@@ -316,6 +320,8 @@ Pieces with prints / stickers:
 3626bpw1 - 1
 3626bpw2 - 1
 3626bpx61 - 1
+3626cpb0405 - 1
+3626cpb0471 - 1
 3629pw2 - 1
 3846p46 - 3
 3846p48 - 3
