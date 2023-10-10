@@ -31,7 +31,7 @@
 0 4492p01.dat
 1 Brick
 2 0
-0 .11211dat
+0 11211.dat
 1 Brick
 2 0
 0 16001.dat
@@ -154,9 +154,6 @@
 0 3005.dat
 1 Brick 1 x 1
 2 0
-0 3005.dat
-1 Brick 1 x 1
-2 1
 0 14716.dat
 1 Brick 1 x 1 x 3
 2 0
@@ -166,9 +163,6 @@
 0 3004.dat
 1 Brick 1 x 2
 2 0
-0 3004.dat
-1 Brick 1 x 2
-2 1
 0 3065.dat
 1 Brick 1 x 2 without Bottom Tube
 2 0
@@ -199,15 +193,9 @@
 0 3009.dat
 1 Brick 1 x 6
 2 0
-0 3009.dat
-1 Brick 1 x 6
-2 1
 0 3008.dat
 1 Brick 1 x 8
 2 0
-0 3008.dat
-1 Brick 1 x 8
-2 1
 0 6111.dat
 1 Brick 1 x 10
 2 0
@@ -220,9 +208,6 @@
 0 3003.dat
 1 Brick 2 x 2
 2 0
-0 3003.dat
-1 Brick 2 x 2
-2 1
 0 2357.dat
 1 Brick 2 x 2 Corner
 2 0
@@ -232,30 +217,18 @@
 0 3002.dat
 1 Brick 2 x 3
 2 0
-0 3002.dat
-1 Brick 2 x 3
-2 1
 0 3001.dat
 1 Brick 2 x 4
 2 0
-0 3001.dat
-1 Brick 2 x 4
-2 1
 0 2456.dat
 1 Brick 2 x 6
 2 0
 0 3007.dat
 1 Brick 2 x 8
 2 0
-0 3007.dat
-1 Brick 2 x 8
-2 1
 0 3006.dat
 1 Brick 2 x 10
 2 0
-0 3006.dat
-1 Brick 2 x 10
-2 1
 0 6212.dat
 1 Brick 4 x 10
 2 0
@@ -265,27 +238,15 @@
 0 3005pf0.dat
 1 Brick 1 x 1 with Blue Cow and Flower on White Background Pattern (Milk Carton)
 2 0
-0 3005pf0.dat
-1 Brick 1 x 1 with Blue Cow and Flower on White Background Pattern (Milk Carton)
-2 1
 0 3005pe1.dat
 1 Brick 1 x 1 with Eye Simple Black and White Pattern
 2 0
-0 3005pe1.dat
-1 Brick 1 x 1 with Eye Simple Black and White Pattern
-2 1
 0 3004p06.dat
 1 Brick 1 x 2 with Black Grille with 7 Vertical Lines Pattern
 2 0
-0 3004p06.dat
-1 Brick 1 x 2 with Black Grille with 7 Vertical Lines Pattern
-2 1
 0 3004ptc1.dat
 1 Brick 1 x 2 with Black 'TNT' Pixelated Pattern
 2 0
-0 3004ptc1.dat
-1 Brick 1 x 2 with Black 'TNT' Pixelated Pattern
-2 1
 0 3010pb1.dat
 1 Brick 1 x 4 with Sand Green Flowers and Vines Wallpaper Pattern
 2 0
@@ -295,9 +256,6 @@
 0 3003px0.dat
 1 Brick 2 x 2 with Pixelated Black Coal and Light Bluish Gray Ash Pattern (Minecraft Furnace)
 2 0
-0 3003px0.dat
-1 Brick 2 x 2 with Pixelated Black Coal and Light Bluish Gray Ash Pattern (Minecraft Furnace)
-2 1
 0 25214.dat
 1 Brick, Round 1 x 1 d. 90 degrees Elbow Macaroni - No Stud - Type 2 - Axle Hole
 2 0
