@@ -22,6 +22,7 @@ ID: - Minimum number of bricks using it in this repo:
 4493c01pb04 (misnamed as 4493c02) - 4
 4497b (misnamed as 4497) - 10
 48729a (misnamed as 48729) - 15
+70358 (also known as 590; misnamed as 2894c01) - 2
 
 Apparently missing bricks:
 
@@ -39,6 +40,7 @@ x70 - 1
 420 - 1.
 422 - 1.
 471 - 1
+585 - 1
 604c01 - 1
 609 - 1
 792 - 1
@@ -101,8 +103,8 @@ u1126 - 1.
 3461 - 1.
 3462 - 1.
 3475a - 1.
-3480 - 1.
-3481 - 1.
+3480 - 1
+3481 - 1
 3582 - 1
 3613 - 1
 3614a - 1
