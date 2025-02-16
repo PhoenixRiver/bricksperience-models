@@ -1,10 +1,9 @@
-0 FILE Pony-7907-6-LittleBirdTown.io
-0 Pony-7907-LittleBirdHouse(Pink).ldr
-0 Name:  Pony-7907-6-LittleBirdTown
-0 Author:  A Nony Mouse
+0 Pony-7907-7-LittleBirdVillage.ldr
+0 Name: Pony-7907-7 - Little Bird Village
+0 Author: Nenufar
+0 Theme: Unofficial
 0 CustomBrick
-0 FlexibleBrickControlPointUnitLength -1
-0 NumOfBricks:  646
+
 1 16 -140.000000 -24.000000 130.000000 1.000000 0.000000 0.000000 0.000000 1.000000 0.000000 0.000000 0.000000 1.000000 bird-yel
 1 16 -290.000000 -24.000000 -220.000000 0.000000 0.000000 1.000000 0.000000 1.000000 0.000000 -1.000000 0.000000 0.000000 bird-blu
 1 16 -210.000000 -24.000000 -19.999990 0.000000 0.000000 -1.000000 0.000000 1.000000 0.000000 1.000000 0.000000 0.000000 bird-gre
