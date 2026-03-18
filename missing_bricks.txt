@@ -6,7 +6,7 @@ TLDR; remove the letter in BS Editor or add / change it to "a" or "b" (this cove
 
 EXCEPTION: change 314 / 314e to _314d_ and 3149 / 3149e to _3149d_ in BS - this took me a long time to find so you are hearby warned! :D
 
-(Yes, this should maybe go into "Advice about converting files for import into BS's ldr format." - I'll make it as soon as I find a chunk of time when I'm feeling coherent enough! IT7ll include the above and a list of changes that need to be made to brick IDs exported as ldr's from Stud.io - it silently "fixes" a bunch that BS doesn't agree with... so much for a standard file format! :( - I use Stud.io and a text editor for all the work but also needed to install LDD for the brick list.
+(Yes, this should maybe go into "Advice about converting files for import into BS's ldr format." - I'll make it as soon as I find a chunk of time when I'm feeling coherent enough! It'll include the above and a list of changes that need to be made to brick IDs exported as ldr's from Stud.io - it silently "fixes" a bunch that BS doesn't agree with... so much for a standard file format! :( - I use Stud.io and a text editor for all the work but also needed to install LDD for the brick list.
 
 ID: - Minimum number of bricks using it in this repo:
 
@@ -117,11 +117,11 @@ u1126 - 1
 3461 - 1
 3462 - 1
 3475a - 1.
-3480 - 5
-3481 - 6
+3480 - 6
+3481 - 7
 3579 - 2
 3582 - 1
-3587 - 2
+3587 - 3
 3613 - 2
 3614a - 1
 3626a - 7
@@ -200,9 +200,10 @@ u9132 - 1.
 10051 - 1
 13252 - 1
 13392 - 1
+15540 - 2
 18948 - 1
-19727 - 1
-19729 - 2
+19727 - 3
+19729 - 5
 19734 - 1
 24855 - 2
 30045 - 1
@@ -229,6 +230,7 @@ u9132 - 1.
 32528 - 1
 37762 - 2
 41740 - 5
+41835 - 1
 41879a - 4
 42021 - 1
 42918 - 6
@@ -329,7 +331,7 @@ Pieces with prints / stickers:
 973pa5c01 - 2
 973pb0086 - 3
 973pb0631 - 3
-973pb1813 - 1
+973pb1813 - 2
 973pw4 - 1
 973pw5 - 1
 973pw6 - 1
@@ -350,7 +352,7 @@ Pieces with prints / stickers:
 3003pe2 - 10
 3004p20 - 2
 3004p90 - 4
-3004pb123 - 4
+3004pb123 - 6
 3010p04 - 2
 3039p23 - 5
 3039p32 - 2
@@ -367,6 +369,7 @@ Pieces with prints / stickers:
 3070bpb126 - 2
 3298p53 - 4
 3298p90 - 3
+3587pb04 - 1
 3622p02 - 1
 3622p53 - 1
 3626bp09 - 1
@@ -395,15 +398,21 @@ Pieces with prints / stickers:
 4490p90 - 1
 4493c01pb03 - 1
 6180pb044 - 1
+6239pb083 - 1
 6251p07 - 1
 6636p06 - 1
 10051pb01 - 1
 14769pm3 - 1
+19727pb003 - 1
 19727pb010 - 1
-19729pb002 - 1
+19727pb013 - 1
+19729pb001 - 1
+19729pb002 - 2
 19729pb003 - 1
+19729pb004 - 1
 30161pa1 - 1
 30363p90 - 1
+41835pb01 - 1
 47759pm0 - 1
 85984pb127 - 1
 98138pb090 - 2
