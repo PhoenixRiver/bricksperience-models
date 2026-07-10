@@ -12,8 +12,8 @@ ID: - Minimum number of bricks using it in this repo:
 
 "Misnamed" bricks:
 
-314e (misnamed as 314d) - 0
-3149e (misnamed as 3149d) - 0
+314e (misnamed as 314d) - 1
+3149e (misnamed as 3149d) - 1
 3004pt7 (misnamed as 3004ptc1) - 2
 3846px9 (misnamed as 3846p45) - 3
 4218 (misnamed as 4218b) - 10
@@ -145,7 +145,7 @@ u1126 - 1
 3947a - 1
 3962a - 10
 4079b - 2
-4081a - 18
+4081a - 22
 4089 - 1
 4207 - 1
 4220 - 1
@@ -332,7 +332,7 @@ Pieces with prints / stickers:
 973p4q - 1
 973p50 - 2
 973p8g - 1
-973p90 - 8
+973p90 - 9
 973pa5c01 - 2
 973pb0086 - 3
 973pb0321 -1
@@ -365,7 +365,7 @@ Pieces with prints / stickers:
 3004p20 - 2
 3004p90 - 6
 3004pb123 - 6
-3010p04 - 2
+3010p04 - 4
 3010pz8 - 1
 3039p23 - 6
 3039p32 - 2
@@ -381,7 +381,8 @@ Pieces with prints / stickers:
 3069bpw0 - 1
 3070bpb126 - 2
 3298p53 - 4
-3298p90 - 4
+3298p90 - 5
+3939p90 - 1
 3587pb04 - 1
 3622p02 - 1
 3622p53 - 1
