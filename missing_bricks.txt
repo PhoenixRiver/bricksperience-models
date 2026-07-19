@@ -10,7 +10,7 @@ EXCEPTION: change 314 / 314e to _314d_ and 3149 / 3149e to _3149d_ in BS - this 
 
 ID: - Minimum number of bricks using it in this repo:
 
-"Misnamed" bricks:
+"Misnamed" bricks (although I'm starting to think this was always a lost cause given how often these designations seem to change :( - maybe a list of all currently included IDs would be useful so users can do the cross-referencing themselves at whatever time they choose to whatever system is currently in place...):
 
 314e (misnamed as 314d) - 1
 3149e (misnamed as 3149d) - 1
@@ -76,15 +76,16 @@ u1126 - 1
 2426 - 1.
 2426c01 - 1.
 2428 - 1.
+2446 - 2
 2448 - 1.
 2452 - 6
 2453a - 11
 2453b - 7
 2466 - 1
-2468 - 2
+2468 - 4
 2488 - 2
 2500c01 - 2
-2507 - 3
+2507 - 4
 2515 - 4
 2543 - 2
 2547a - 3
@@ -331,6 +332,7 @@ Pieces with prints / stickers:
 973p49 - 3
 973p4q - 1
 973p50 - 2
+973p6b - 1
 973p8g - 1
 973p90 - 9
 973pa5c01 - 2
@@ -344,6 +346,7 @@ Pieces with prints / stickers:
 973pb0631 - 3
 973pb0639 - 1
 973pb1813 - 2
+973pb4967 - 1
 973pw4 - 1
 973pw5 - 1
 973pw6 - 1
@@ -352,12 +355,14 @@ Pieces with prints / stickers:
 973px138 - 1
 2335p30 - 1
 2336p90 - 1
+2362ap53 - 1
+2362ap54 - 1
 2362apb04l - 3
 2362apb04r - 3
 2431p01 - 1
 2431px5 - 1
-2468p53 - 1
-2468p54 - 1
+2468p53 - 2
+2468p54 - 2
 2546p01 - 1
 2586pw1 - 1
 3001p0d - 1
@@ -367,7 +372,7 @@ Pieces with prints / stickers:
 3004pb123 - 6
 3010p04 - 4
 3010pz8 - 1
-3039p23 - 6
+3039p23 - 7
 3039p32 - 2
 3039p34 - 3
 3040p32 - 2
